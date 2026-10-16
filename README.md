@@ -22,3 +22,4 @@ A macOS app updater based on [Latest](https://github.com/mangerlahn/Latest), foc
 **[Lulu Capybara Pet](https://github.com/JasonHMY/lulu-capybara-pet)**  
 An unofficial, fan-made animated companion for Codex. A small project made for fun.
 
+
